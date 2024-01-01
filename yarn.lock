@@ -6993,7 +6993,7 @@ __metadata:
     chalk: "npm:^3.0.0"
     clipanion: "npm:^3.2.0-rc.10"
     esbuild: "npm:esbuild-wasm@^0.15.15"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     tslib: "npm:^2.4.0"
     typescript: "npm:5.1.0-beta"
   bin:
@@ -7040,7 +7040,7 @@ __metadata:
     ci-info: "npm:^3.2.0"
     clipanion: "npm:^3.2.0-rc.10"
     micromatch: "npm:^4.0.2"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     tslib: "npm:^2.4.0"
     typanion: "npm:^3.3.0"
   peerDependencies:
@@ -7090,7 +7090,7 @@ __metadata:
     rollup: "npm:^2.59.0"
     rollup-plugin-esbuild: "npm:^3.0.2"
     rollup-plugin-terser: "npm:^7.0.2"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     strip-ansi: "npm:^6.0.0"
     tar: "npm:^6.0.5"
     tinylogic: "npm:^2.0.0"
@@ -7416,7 +7416,7 @@ __metadata:
     "@yarnpkg/plugin-npm": "workspace:^"
     "@yarnpkg/plugin-patch": "workspace:^"
     resolve: "npm:^1.17.0"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
   peerDependencies:
     "@yarnpkg/core": "workspace:^"
     "@yarnpkg/plugin-patch": "workspace:^"
@@ -7475,7 +7475,7 @@ __metadata:
     enquirer: "npm:^2.3.6"
     lodash: "npm:^4.17.15"
     micromatch: "npm:^4.0.2"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     tslib: "npm:^2.4.0"
     typanion: "npm:^3.3.0"
   peerDependencies:
@@ -7523,7 +7523,7 @@ __metadata:
     clipanion: "npm:^3.2.0-rc.10"
     git-url-parse: "npm:^13.1.0"
     lodash: "npm:^4.17.15"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     tslib: "npm:^2.4.0"
   peerDependencies:
     "@yarnpkg/core": "workspace:^"
@@ -7588,7 +7588,7 @@ __metadata:
     ink: "npm:^3.0.8"
     ink-text-input: "npm:^4.0.1"
     react: "npm:^16.13.1"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     tslib: "npm:^2.4.0"
   peerDependencies:
     "@yarnpkg/cli": "workspace:^"
@@ -7645,7 +7645,7 @@ __metadata:
     clipanion: "npm:^3.2.0-rc.10"
     enquirer: "npm:^2.3.6"
     micromatch: "npm:^4.0.2"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     tslib: "npm:^2.4.0"
     typanion: "npm:^3.3.0"
   peerDependencies:
@@ -7666,7 +7666,7 @@ __metadata:
     "@yarnpkg/fslib": "workspace:^"
     "@yarnpkg/plugin-pack": "workspace:^"
     enquirer: "npm:^2.3.6"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     ssri: "npm:^6.0.1"
     tslib: "npm:^2.4.0"
   peerDependencies:
@@ -7724,7 +7724,7 @@ __metadata:
     "@yarnpkg/pnp": "workspace:^"
     clipanion: "npm:^3.2.0-rc.10"
     micromatch: "npm:^4.0.2"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     tslib: "npm:^2.4.0"
   peerDependencies:
     "@yarnpkg/cli": "workspace:^"
@@ -7779,7 +7779,7 @@ __metadata:
     "@yarnpkg/plugin-essentials": "workspace:^"
     "@yarnpkg/plugin-pack": "workspace:^"
     algoliasearch: "npm:^4.2.0"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     tslib: "npm:^2.4.0"
   peerDependencies:
     "@yarnpkg/cli": "workspace:^"
@@ -7806,7 +7806,7 @@ __metadata:
     ink: "npm:^3.0.8"
     lodash: "npm:^4.17.15"
     react: "npm:^16.13.1"
-    semver: "npm:^7.1.2"
+    semver: "npm:^7.5.2"
     tslib: "npm:^2.4.0"
   peerDependencies:
     "@yarnpkg/cli": "workspace:^"
@@ -26707,6 +26707,17 @@ pem@dexus/pem:
   bin:
     semver: bin/semver.js
   checksum: 67bcf24790dcba9c20b2cd4c8ade19eebbcb10c8868453570749b47b77bd5c7da503478997a7a3f663d5b2976ac39c545f38d2d9e7dfcc693cb87f4068f93f8e
+  languageName: node
+  linkType: hard
+
+"semver@npm:^7.5.2":
+  version: 7.5.4
+  resolution: "semver@npm:7.5.4"
+  dependencies:
+    lru-cache: "npm:^6.0.0"
+  bin:
+    semver: bin/semver.js
+  checksum: b06b6c19088f1d7c4a21858a432fc31a766d3a3dbcc6638028e2e85de79f5ec87b849b940f03487d4e366616435ba16bf769f558896addb55ba5ec388ca2ed1b
   languageName: node
   linkType: hard
 

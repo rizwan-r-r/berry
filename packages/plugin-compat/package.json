@@ -25,7 +25,7 @@
     "@yarnpkg/plugin-npm": "workspace:^",
     "@yarnpkg/plugin-patch": "workspace:^",
     "resolve": "^1.17.0",
-    "semver": "^7.1.2"
+    "semver": "^7.5.2"
   },
   "repository": {
     "type": "git",
