@@ -34,7 +34,7 @@
     "@yarnpkg/plugin-pnpm": "1.0.0",
     "@yarnpkg/plugin-stage": "workspace:^",
     "@yarnpkg/plugin-typescript": "workspace:^",
-    "@yarnpkg/plugin-version": "workspace:^",
+    "@yarnpkg/plugin-version": "2.1.0",
     "@yarnpkg/plugin-workspace-tools": "2.1.0",
     "@yarnpkg/shell": "2.1.0",
     "ci-info": "^3.2.0",
