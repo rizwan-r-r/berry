@@ -9,7 +9,7 @@
   "dependencies": {
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/libzip": "workspace:^",
-    "@yarnpkg/nm": "workspace:^",
+    "@yarnpkg/nm": "2.4.1",
     "@yarnpkg/parsers": "workspace:^",
     "@yarnpkg/plugin-pnp": "2.1.0",
     "@yarnpkg/pnp": "workspace:^",
