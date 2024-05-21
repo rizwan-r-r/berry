@@ -11,7 +11,11 @@
   },
   "sideEffects": false,
   "dependencies": {
+<<<<< snyk-fix-64b66883d89ecadeea29d276662cb6a1
+    "@yarnpkg/core": "2.2.0",
+=======
     "@yarnpkg/core": "2.1.0",
+>>>>> master
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/parsers": "workspace:^",
     "chalk": "^3.0.0",
