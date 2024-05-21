@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@yarnpkg/fslib": "workspace:^",
-    "@yarnpkg/plugin-stage": "workspace:^",
+    "@yarnpkg/plugin-stage": "2.1.0",
     "@yarnpkg/pnp": "workspace:^",
     "clipanion": "^4.0.0-rc.2",
     "micromatch": "^4.0.2",
