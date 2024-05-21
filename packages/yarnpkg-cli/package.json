@@ -17,7 +17,7 @@
     "@yarnpkg/plugin-constraints": "2.1.0",
     "@yarnpkg/plugin-dlx": "2.1.0",
     "@yarnpkg/plugin-essentials": "2.1.0",
-    "@yarnpkg/plugin-exec": "workspace:^",
+    "@yarnpkg/plugin-exec": "2.3.1",
     "@yarnpkg/plugin-file": "2.1.0",
     "@yarnpkg/plugin-git": "2.1.0",
     "@yarnpkg/plugin-github": "2.1.0",
