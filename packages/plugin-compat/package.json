@@ -12,7 +12,7 @@
     "@yarnpkg/plugin-patch": "workspace:^"
   },
   "dependencies": {
-    "@yarnpkg/extensions": "workspace:^"
+    "@yarnpkg/extensions": "1.1.0"
   },
   "devDependencies": {
     "@types/lodash-es": "4.17.4",

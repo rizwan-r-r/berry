@@ -12,9 +12,13 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@yarnpkg/core": "workspace:^",
+<<<<<< snyk-fix-0b2a36c230183b21aa98426a954bda8d
+    "@yarnpkg/core": "2.2.0",
+=======
+    "@yarnpkg/core": "2.1.0",
+>>>>>> master
     "@yarnpkg/fslib": "workspace:^",
-    "@yarnpkg/nm": "workspace:^",
+    "@yarnpkg/nm": "2.4.1",
     "clipanion": "^4.0.0-rc.2",
     "tslib": "^2.4.0"
   },
