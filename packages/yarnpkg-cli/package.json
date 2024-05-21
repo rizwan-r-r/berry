@@ -32,8 +32,13 @@
     "@yarnpkg/plugin-patch": "2.1.0",
     "@yarnpkg/plugin-pnp": "2.1.0",
     "@yarnpkg/plugin-pnpm": "1.0.0",
+<<<<<< snyk-fix-d4a1fce6428ecc2b1cfde14660b8ecac
+    "@yarnpkg/plugin-stage": "workspace:^",
+    "@yarnpkg/plugin-typescript": "workspace:^",
+=======
     "@yarnpkg/plugin-stage": "2.1.0",
     "@yarnpkg/plugin-typescript": "2.1.0",
+>>>>>> master
     "@yarnpkg/plugin-version": "2.1.0",
     "@yarnpkg/plugin-workspace-tools": "2.1.0",
     "@yarnpkg/shell": "2.1.0",
