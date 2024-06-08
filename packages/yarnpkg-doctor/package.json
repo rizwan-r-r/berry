@@ -13,7 +13,7 @@
     "@yarnpkg/fslib": "workspace:^",
     "clipanion": "^4.0.0-rc.2",
     "globby": "^11.0.1",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.6",
     "p-limit": "^2.2.0",
     "tslib": "^2.4.0",
     "typescript": "5.4.1-rc"
