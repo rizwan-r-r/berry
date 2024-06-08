@@ -14,7 +14,7 @@
     "clipanion": "^4.0.0-rc.2",
     "enquirer": "^2.3.6",
     "lodash": "^4.17.15",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.6",
     "semver": "^7.1.2",
     "tslib": "^2.4.0",
     "typanion": "^3.14.0"
