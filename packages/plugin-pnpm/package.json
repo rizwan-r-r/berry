@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "@yarnpkg/fslib": "workspace:^",
-    "@yarnpkg/plugin-pnp": "workspace:^",
-    "@yarnpkg/plugin-stage": "workspace:^",
+    "@yarnpkg/plugin-pnp": "2.1.0",
+    "@yarnpkg/plugin-stage": "2.1.0",
     "clipanion": "^4.0.0-rc.2",
     "p-limit": "^2.2.0",
     "tslib": "^2.4.0"
